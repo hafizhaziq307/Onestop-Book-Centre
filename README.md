@@ -1,5 +1,5 @@
-# calculator
-A web application to calculate some simple calculations.
+# Onestop Book Centre
+For my degree's graduation, I was required to build a web application that used 3-tier architecture or above. Thus, I decided to create this website. 
 
 <img src="./res/output.png" alt="output-onestop-book-centre" >
 
