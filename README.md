@@ -12,13 +12,14 @@ For my degree's graduation, I was required to build a web application that used 
 
 ## Setup
 - Clone this repo to your desktop
+- import database onestopBookCentre_DB.sql 
 - Run `composer install`
 - Run `npm install`
 
 ---
 
 ## Usage
-Run `php artisan serve` to start the application. You will then be able to access it at localhost:8080.
+Run `php artisan serve` to start the application. You will then be able to access it at localhost:8000.
 
 ---
 
