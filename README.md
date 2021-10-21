@@ -32,7 +32,7 @@ It is created using those amazing technologies:
 ---
 
 ## License
->You can check out the full license [here](https://github.com/hafizhaziq307/calculator/blob/main/LICENSE)
+>You can check out the full license [here](https://github.com/hafizhaziq307/Onestop-Book-Centre/blob/main/LICENSE)
 
 This project is licensed under the terms of the **MIT** license.
 
