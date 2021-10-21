@@ -7,13 +7,13 @@ A web application to calculate some simple calculations.
 
 ## Requirement
 - Node.js 12.13.0 or higher
-
+- PHP 7.4 or higher
 ---
 
 ## Setup
-- Clone this repo to your desktop.
-- Run `composer install`.
-- Run `npm install`.
+- Clone this repo to your desktop
+- Run `composer install`
+- Run `npm install`
 
 ---
 
